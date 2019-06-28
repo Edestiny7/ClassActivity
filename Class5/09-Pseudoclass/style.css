@@ -1,0 +1,5 @@
+
+a:default{background-color: aliceblue}
+a:active{background-color: brown}
+a:hover{background-color: cyan}
+a:focus{background-color: darkgray}

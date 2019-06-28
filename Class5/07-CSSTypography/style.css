@@ -1,0 +1,20 @@
+.p1{
+font-family:sans-serif;
+font-size:20px;
+font-weight:normal;
+line-height:30px;
+}
+
+.p2{
+    font-family:'Courier New', Courier, monospace;
+    font-size:24px;
+    font-weight:bold;
+    line-height:36px;
+}
+
+.p3{
+    font-family:calibri;
+    font-size:36px;
+    font-weight:lighter;
+    line-height:54px;
+    }
